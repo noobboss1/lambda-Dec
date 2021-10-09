@@ -9,6 +9,7 @@ $ pkg install nano
 $ pkg install git
 $ git clone https://github.com/Aldi098/lambda-Dec
 $ cd lambda-Dec
+$ 
 $ python run.py
 
 ```
