@@ -23,7 +23,12 @@ $ python run.py
 - [x] DLL
 
 > Get Token [click here](https://sfile.mobi/34w5pODdgI3)
-
+## Thanks for you
+```php
+ Polygon
+ Panglima Jateng
+ Dan semua team panglima Jateng
+```
 ## Support Me On
 <b>• [Youtube](https://youtube.com/channel/UC7ygjAbDjuiN76PqOlJm40A)</b>
 </br>
