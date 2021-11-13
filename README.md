@@ -10,7 +10,7 @@ $ pkg install git
 $ git clone https://github.com/Aldi098/lambda-Dec
 $ cd lambda-Dec
 $ pip install -r requirements.txt
-$ python run.py
+$ python Run.py
 
 ```
 
